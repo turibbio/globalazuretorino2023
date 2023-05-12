@@ -25,4 +25,4 @@ jobs:
       env:
         SUBSCRIPTION_ID: ${{ secrets.SUBSCRIPTION_ID }}
         EXPERIMENT_NAME: pod-failure
-        RESOURCE_GROUP: global-azure-torino-2023
+        RESOURCE_GROUP: MC_global-azure-torino-2023_aksgat2023_eastus
