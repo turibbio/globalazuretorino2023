@@ -1,0 +1,17 @@
+{
+    "mode": "one",
+    "selector": {
+       "namespaces": [
+           "default"
+       ],
+       "labelSelectors": {
+          "app": "contoso-website"
+       }
+    },
+    "stressors": {
+       "memory": {
+          "workers": 4,
+          "size": "1024MB"
+       }
+    }
+}

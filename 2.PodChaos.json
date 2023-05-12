@@ -1,0 +1,11 @@
+
+{
+    "action": "pod-failure",
+    "mode": "all",
+    "duration": "30s",
+    "selector": {
+        "namespaces": [
+            "default"
+        ]
+    }
+}
